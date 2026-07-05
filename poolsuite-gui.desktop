@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Poolsuite GUI
+Comment=Retro synthwave player for Poolsuite FM playlists
+Exec=/usr/bin/python3 %INSTALL_DIR%/main.py
+Icon=multimedia-player
+Terminal=false
+Categories=AudioVideo;Player;
